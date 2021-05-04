@@ -1,0 +1,17 @@
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\bin\Debug\VenderMachine.Tests.dll
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\bin\Debug\VenderMachine.Tests.pdb
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\bin\Debug\VenderMachine.exe
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\bin\Debug\VenderMachine.pdb
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\bin\Debug\VenderMachine.exe.config
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\obj\Debug\VenderMachine.Tests.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\obj\Debug\VenderMachine.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\obj\Debug\VenderMachine.Tests.csproj.CopyComplete
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\obj\Debug\VenderMachine.Tests.dll
+C:\Users\Home\source\repos\VenderMachine\VenderMachine.Tests\obj\Debug\VenderMachine.Tests.pdb

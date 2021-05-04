@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\VenderMachine\VenderMachine\bin\Debug\VenderMachine.exe.config
+C:\Users\Home\source\repos\VenderMachine\VenderMachine\bin\Debug\VenderMachine.exe
+C:\Users\Home\source\repos\VenderMachine\VenderMachine\bin\Debug\VenderMachine.pdb
+C:\Users\Home\source\repos\VenderMachine\VenderMachine\obj\Debug\VenderMachine.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\VenderMachine\VenderMachine\obj\Debug\VenderMachine.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\VenderMachine\VenderMachine\obj\Debug\VenderMachine.exe
+C:\Users\Home\source\repos\VenderMachine\VenderMachine\obj\Debug\VenderMachine.pdb
