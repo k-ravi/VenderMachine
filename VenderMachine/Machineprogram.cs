@@ -61,11 +61,13 @@ namespace VenderMachine
             return isValid;
         }
 
-        public void ReturnChange()
+        private void ReturnChange()
         {
             if (Deposit > DrinkCost)
             {
                 Console.WriteLine("Your change {0:C}", Deposit - DrinkCost);
+                Deposit = 0;
+                DrinkCost = 0;
             }
         }
         public bool CheckDeposit()
