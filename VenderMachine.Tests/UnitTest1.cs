@@ -13,8 +13,9 @@ namespace VenderMachine.Tests
             Assert.AreEqual(machineprogram.ValidateDrinkSelection(3), true);
             Assert.AreEqual(machineprogram.CheckDeposit(), false);
             Assert.AreEqual(machineprogram.ReturnChange(), false);
-            machineprogram.InsertCoins(100);
             machineprogram.InsertCoins(5);
+            Assert.AreEqual(machineprogram.ReturnChange(), false);
+            machineprogram.InsertCoins(100);
             Assert.AreEqual(machineprogram.CheckDeposit(), true);
             Assert.AreEqual(machineprogram.ReturnChange(), true);
 
