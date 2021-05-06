@@ -7,6 +7,7 @@ namespace VenderMachine
         public static void Main()
         {
             Machineprogram machineprogram = new Machineprogram();
+            machineprogram.ChooseDrink();
             while (!machineprogram.CheckDeposit())
             {
                 Console.WriteLine("enter coins (5,10,25,100)");
@@ -19,7 +20,7 @@ namespace VenderMachine
                     Console.WriteLine("Invalid Coin");
                 }
             }
-            machineprogram.ChooseDrink();
+            machineprogram.ReturnChange();
             //Console.Read();
         }
     }

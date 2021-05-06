@@ -10,12 +10,16 @@ namespace VenderMachine.Tests
         public void ReturnMoney()
         {
             Machineprogram machineprogram = new Machineprogram();
+            Assert.AreEqual(machineprogram.ValidateDrinkSelection(3), true);
+            Assert.AreEqual(machineprogram.CheckDeposit(), false);
+            Assert.AreEqual(machineprogram.ReturnChange(), false);
             machineprogram.InsertCoins(100);
             machineprogram.InsertCoins(5);
-            Assert.AreEqual(machineprogram.ValidateDrinkSelection(3), true);
-            Assert.AreEqual(machineprogram.Deposit, 105);
+            Assert.AreEqual(machineprogram.CheckDeposit(), true);
+            Assert.AreEqual(machineprogram.ReturnChange(), true);
+
         }
-      
+
         [TestMethod]
         public void ValidateDrinkSelectionFalseCase()
         {
